@@ -122,6 +122,7 @@ export default _.flowRight(
     };
     helpers.mountContainerElementToPane(mapPanes, this._containerElement, props);
     helpers.renderChildToContainerElement(mapCanvasProjection, this._containerElement, props);
+    mapPanes.overlayMouseTarget.appendChild(this._containerElement);
   },
 
   onRemove() {
