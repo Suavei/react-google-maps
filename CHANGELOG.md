@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="7.2.1"></a>
+## [7.2.1](https://github.com/tomchentw/react-google-maps/compare/v7.2.0...v7.2.1) (2017-08-21)
+
+
+### Bug Fixes
+
+* **enhanceElement:** handle undefined callbacks gracefully ([e463df3](https://github.com/tomchentw/react-google-maps/commit/e463df3))
+* **withScriptsJs:** Fix comment clarity ([74b0ba3](https://github.com/tomchentw/react-google-maps/commit/74b0ba3))
+
+
+
 <a name="7.2.0"></a>
 # [7.2.0](https://github.com/tomchentw/react-google-maps/compare/v7.1.0...v7.2.0) (2017-07-18)
 
